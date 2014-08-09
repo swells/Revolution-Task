@@ -1,0 +1,35 @@
+{
+  "name": "example-helloworld",
+  "version": "0.1",
+  "author": {
+    "name": "DeployR Inc.",
+    "email": "support@deployr.com"
+  },
+  "description": "A very basic node.js helloworld application",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sandbox-js/helloworld.git"
+  },
+  "keywords": [
+    "nodeapps",
+    "helloworld"
+  ],
+  "homepage": "http://nodeapps.github.com/sandbox-js/helloworld",
+  "scripts": {
+    "start": "node ./bin/server"
+  },
+  "contributors": [
+    {
+      "name": "Sean",
+      "email": "sean@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.4"
+  },
+  
+  "analyze": false
+}
